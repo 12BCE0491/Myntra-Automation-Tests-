@@ -30,8 +30,4 @@ demonstrating test case design, strategy, and execution using Selenium with Pyth
 - High priority since cart failures directly affect revenue.
 - Chosen to demonstrate **end-to-end automation** of a key feature.
 
-## Running the Tests
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/Myntra-Automation-Tests.git
-   cd Myntra-Automation-Tests
+
