@@ -25,9 +25,6 @@ demonstrating test case design, strategy, and execution using Selenium with Pyth
 - Covered both UI elements and functional validations.
 - Assertions included for verifying product presence in the cart.
 
-## Rationale
-- Add to Cart is a **core e-commerce flow** impacting business KPIs.
-- High priority since cart failures directly affect revenue.
-- Chosen to demonstrate **end-to-end automation** of a key feature.
+
 
 
